@@ -1,4 +1,4 @@
-#Práctica 5 - progrqmación funcional
+#Práctica 5 - progrqmación funcional.
 
 #1. Dada una lista de números enteros cualquiera, utilice los métodos map, filter y reduce
 #para filtrar los números impares de la lista y calcular la suma de sus cuadrados.
